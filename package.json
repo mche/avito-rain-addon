@@ -1,0 +1,9 @@
+{
+  "name": "avito-rain-addon",
+  "title": "Avito -> Rain",
+  "id": "jid1-DU53nkadypil6Q",
+  "description": "Это расширение сохраняет объявления на сервисе Большой Дождь",
+  "author": "M Che",
+  "license": "MPL 2.0",
+  "version": "0.29"
+}
